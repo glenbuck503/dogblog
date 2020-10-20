@@ -26,10 +26,19 @@ ul {
 p {
   font-size: 40px;
   font-weight: 500;
-  
-  
-  
+  color: yellow;
+}
 
+p.darktext {
+  color: red;
+}
+
+.light-background {
+  background-color: #7a94f3;
+}
+
+.dark-background {
+  background-color: rgb(56, 50, 50);
 }
 
 img {
